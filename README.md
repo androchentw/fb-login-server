@@ -7,7 +7,7 @@ Date: 2013/4/10
 Comment: First Upload.
 
 
-##Functionality##
+##Description##
 
 This is the server-side login of Facebook using php.
 
